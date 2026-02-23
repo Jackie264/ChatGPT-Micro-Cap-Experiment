@@ -112,9 +112,9 @@ This platform tests those claims using:
 
 Here are the artifacts links for the Micro-Cap Experiment:
 
-- **Research Index:** [Deep Research Index](experiments/chatgpt_micro-cap/collected_artifacts/deep_research_index.md)
+- **Research Index:** [Deep Research Index](Experiments/chatgpt_micro-cap/collected_artifacts/deep_research_index.md)
 
-- **Decision Logs / Chats:** [Chats](experiments/chatgpt_micro-cap/collected_artifacts/chats.md)
+- **Decision Logs / Chats:** [Chats](Experiments/chatgpt_micro-cap/collected_artifacts/chats.md)
 
 ---
 
