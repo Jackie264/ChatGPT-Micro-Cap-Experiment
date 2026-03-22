@@ -1,4 +1,5 @@
-numpy==2.3.2
+numpy==2.3.0
 pandas==2.2.2
 yfinance==0.2.65
 matplotlib==3.8.4
+git+https://github.com/LuckyOne7777/LLM-Investor-Behavior-Benchmark.git
